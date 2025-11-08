@@ -37,13 +37,13 @@ Discount impact and product preference trends.
 
 📂 Repository Structure
 
-📁 Customer-Behavior-Analysis/
-│
-├── 📘 Jupyter_Notebooks/        → Python scripts using pandas & data analysis
-├── 🗄️ SQL_Queries/              → SQL Server queries for data extraction
-├── 📊 PowerBI_Dashboard/        → Power BI report files & screenshots
-├── 📑 Presentation/             → Final PPT summarizing key insights
-└── README.md                    → Project documentation
+📁 Customer-Behavior-Analysis/ \n
+│\n
+├── 📘 Jupyter_Notebooks/        → Python scripts using pandas & data analysis \n
+├── 🗄️ SQL_Queries/              → SQL Server queries for data extraction \n
+├── 📊 PowerBI_Dashboard/        → Power BI report files & screenshots \n
+├── 📑 Presentation/             → Final PPT summarizing key insights \n
+└── README.md                    → Project documentation \n
 
 🚀 Objective
 
