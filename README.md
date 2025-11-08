@@ -37,7 +37,7 @@ Discount impact and product preference trends.
 
 📂 Repository Structure
 
-📁 Customer-Behavior-Analysis/ <br>
+'''📁 Customer-Behavior-Analysis/ <br>
 │<br>
 ├── 📘 Jupyter_Notebooks/        → Python scripts using pandas & data analysis <br>
 ├── 🗄️ SQL_Queries/              → SQL Server queries for data extraction <br>
