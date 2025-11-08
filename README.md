@@ -36,6 +36,7 @@ Identification of high-value customers and seasonal buying patterns.
 Discount impact and product preference trends.
 
 📂 Repository Structure
+
 📁 Customer-Behavior-Analysis/
 │
 ├── 📘 Jupyter_Notebooks/        → Python scripts using pandas & data analysis
