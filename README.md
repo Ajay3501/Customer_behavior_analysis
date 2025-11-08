@@ -36,15 +36,15 @@ Identification of high-value customers and seasonal buying patterns.
 Discount impact and product preference trends.
 
 📂 Repository Structure
-
-'''📁 Customer-Behavior-Analysis/ <br>
-│<br>
-├── 📘 Jupyter_Notebooks/        → Python scripts using pandas & data analysis <br>
-├── 🗄️ SQL_Queries/              → SQL Server queries for data extraction <br>
-├── 📊 PowerBI_Dashboard/        → Power BI report files & screenshots <br>
-├── 📑 Presentation/             → Final PPT summarizing key insights <br>
-└── README.md                    → Project documentation <br>
-
+<pre>
+📁 Customer-Behavior-Analysis/ 
+│
+├── 📘 Jupyter_Notebooks/             → Python scripts using pandas & data analysis 
+├── 🗄️ SQL_Queries/                   → SQL Server queries for data extraction 
+├── 📊 PowerBI_Dashboard/             → Power BI report files & screenshots 
+├── 📑 Presentation/                  → Final PPT summarizing key insights 
+└── README.md                         → Project documentation 
+</pre>
 🚀 Objective
 
 To demonstrate how data-driven analysis can help businesses make informed decisions by understanding customer preferences and purchase behavior.
